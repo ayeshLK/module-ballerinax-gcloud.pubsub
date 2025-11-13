@@ -110,11 +110,6 @@ groupId = "com.google.http-client"
 artifactId = "google-http-client"
 version = "1.44.2"
 
-#[[platform.java21.dependency]]
-#groupId = "com.google.code.gson"
-#artifactId = "gson"
-#version = "2.10.1"
-
 [[platform.java21.dependency]]
 groupId = "io.opencensus"
 artifactId = "opencensus-api"
